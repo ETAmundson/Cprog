@@ -8,5 +8,6 @@ int main(){
     int y = x / 2;
 
     printf("The magic number is: %i\nThe Value of x is %i\n", y, x);
+    printf("%i\n", 9001);
     return 0;
 }
